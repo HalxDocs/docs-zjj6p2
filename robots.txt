@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-abld5x.saturadar88.online/sitemap.xml
